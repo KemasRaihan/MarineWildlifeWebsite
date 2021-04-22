@@ -1,0 +1,108 @@
+body{
+	background: linear-gradient(-45deg, blue, aqua);
+	color: white;
+}
+
+h1{
+	margin: 0px 100px 0px 550px;
+	font-family: "Grandstander";
+}
+h2{
+	font-family: "Grandstander";
+}
+h3{
+	font-family: "Grandstander";
+}
+p{
+	font-family: "Noto Sans KR";
+}
+
+
+.fishes{
+	height: 300px;
+	width: 350px;
+	margin: 0 10px 0 120px;
+}
+
+.fishes2{
+	height: 300px;
+	width: 350px;
+	margin: 0 10px;
+}
+
+.turtle{
+	height: 300px;
+	width: 450px;
+}
+
+
+
+.clownfish:hover{
+	color:orange;
+}
+.clownfish{
+	text-align: center;
+}
+.clownfishpic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.greatwhite:hover{
+	color:teal;
+}
+.greatwhite{
+	text-align: center;
+}
+.greatwhitepic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.pufferfish:hover{
+	color:yellow;
+}
+.pufferfish{
+	text-align: center;
+}
+.pufferfishpic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.regalblue:hover{
+	color:yellow;
+}
+.regalblue{
+	text-align: center;
+}
+.regalbluepic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.seaturtle:hover{
+	color:green;
+}
+.seaturtle{
+	text-align: center;
+}
+.seaturtlepic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.vote{
+	font-family: "Noto Sans KR";
+}
+#animallink{
+	font-family: "Noto Sans KR";
+}
